@@ -651,5 +651,6 @@ stds.scaffolding = {
 	},
 	read_globals = {
 		"fmod",
+		"default",
 	},
 }
