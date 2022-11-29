@@ -1,3 +1,5 @@
+scaffolding = fmod.create()
+
 local sounds
 if minetest.get_modpath("default") then
     sounds = default.node_sound_wood_defaults()

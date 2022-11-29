@@ -1,0 +1,11 @@
+{
+    "type": "MOD",
+    "name": "scaffolding",
+    "title": "scaffolding (flux's version)",
+    "short_description": "scaffolding, to help in building projects.",
+    "repo": "https://github.com/fluxionary/minetest-scaffolding.git",
+    "website": "https://github.com/fluxionary/minetest-scaffolding",
+    "issue_tracker": "https://github.com/fluxionary/minetest-scaffolding/issues",
+    "license": "AGPL-3.0-or-later",
+    "media_license": "CC-BY-SA-4.0"
+}
